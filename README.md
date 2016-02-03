@@ -1,2 +1,2 @@
 # AnimationChannel
-那些年追忆过的iOS动画
+A animation list of awesome iOS UI/UX libraries
