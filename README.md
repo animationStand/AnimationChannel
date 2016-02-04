@@ -14,5 +14,13 @@ Repo | Demo
 ==========================
 Repo | Demo
 --- | ---
-[mntpulltoreact](https://github.com/mentionapp/mntpulltoreact) <br><br> [![](http://gh-btns.cjwirth.com/stars/mentionapp/mntpulltoreact)](https://github.com/mentionapp/mntpulltoreact/stargazers) <br> Language: Obj-C <br> License: [Unknown][Unknown] | <img src="https://raw.githubusercontent.com/mentionapp/mntpulltoreact/master/README/mention-example.gif" width="60%" " >
+[mntpulltoreact](https://github.com/mentionapp/mntpulltoreact) <br><br> [![](http://gh-btns.cjwirth.com/stars/mentionapp/mntpulltoreact)](https://github.com/mentionapp/mntpulltoreact/stargazers) <br> Language: Obj-C <br> License: [Unknown] | <img src="https://raw.githubusercontent.com/mentionapp/mntpulltoreact/master/README/mention-example.gif" width="60%" " >
 
+
+
+
+
+[MIT]: http://opensource.org/licenses/MIT
+[Apache v2]: https://www.apache.org/licenses/LICENSE-2.0
+[BSD-2]: http://opensource.org/licenses/BSD-2-Clause
+[BSD-3]: http://opensource.org/licenses/BSD-3-Clause
